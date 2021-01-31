@@ -21,7 +21,7 @@
             <a class="nav-link text-uppercase text-expanded" href="">Products</a>
           </li>
           <li class="nav-item px-lg-4">
-            <a class="nav-link text-uppercase text-expanded" href="">Store</a>
+            <a class="nav-link text-uppercase text-expanded" href="{{route('store')}}">Store</a>
           </li>
         </ul>
       </div>
