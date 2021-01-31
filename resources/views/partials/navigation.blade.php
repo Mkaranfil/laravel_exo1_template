@@ -18,10 +18,10 @@
             <a class="nav-link text-uppercase text-expanded" href="{{route('about')}}">About</a>
           </li>
           <li class="nav-item px-lg-4">
-            <a class="nav-link text-uppercase text-expanded" href="{{route('products')}}">Products</a>
+            <a class="nav-link text-uppercase text-expanded" href="">Products</a>
           </li>
           <li class="nav-item px-lg-4">
-            <a class="nav-link text-uppercase text-expanded" href="{{route('store')}}">Store</a>
+            <a class="nav-link text-uppercase text-expanded" href="">Store</a>
           </li>
         </ul>
       </div>
